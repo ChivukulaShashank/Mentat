@@ -1,0 +1,15 @@
+# --- Core RAG & LLM ---
+gpt4all
+transformers
+torch
+faiss-cpu
+numpy
+
+# --- PDF & Text Processing ---
+pymupdf
+spacy
+nltk
+python-dotenv
+
+# --- NER & Utility ---
+stanza
